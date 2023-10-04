@@ -1,0 +1,9 @@
+[submodule "hypeapi"]
+	path = hypeapi
+	url = https://github.com/AnEntrypoint/hypeapi.git
+[submodule "hypetask"]
+	path = hypetask
+	url = https://github.com/AnEntrypoint/hypetask.git
+[submodule "hypecall"]
+	path = hypecall
+	url = https://github.com/AnEntrypoint/hypecall.git
